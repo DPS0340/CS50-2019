@@ -1,5 +1,5 @@
-#include "../../header/cs50.h"
 #include <stdio.h>
+#include "../header/cs50.h"
 
 int main(void) {
     float price = get_float("What's the price?\n");

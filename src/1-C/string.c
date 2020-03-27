@@ -1,4 +1,4 @@
-#include "../../header/cs50.h"
+#include "../header/cs50.h"
 #include <stdio.h>
 
 int main(void) {

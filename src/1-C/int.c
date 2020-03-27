@@ -1,5 +1,5 @@
-#include "../../header/cs50.h"
 #include <stdio.h>
+#include "../header/cs50.h"
 
 int main(void) {
     int age = get_int("What's your age?\n");
